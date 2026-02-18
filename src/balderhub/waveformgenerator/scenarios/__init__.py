@@ -1,6 +1,5 @@
-# TODO add classes / functions from module (if any)
-# TODO delete module if it has no sub elements
+from .scenario_play_and_record import ScenarioPlayAndRecord
 
 __all__ = [
-
+    'ScenarioPlayAndRecord',
 ]
